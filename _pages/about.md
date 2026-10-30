@@ -6,7 +6,7 @@ subtitle: Ph.D. Student @ Dalian University of Technology
 
 profile:
   align: right
-  image:
+  image: mingyang.png
   image_circular: false
   more_info: >
     <p>Ph.D. Student</p>
@@ -15,7 +15,7 @@ profile:
     <p><a href="mailto:mingyang@mail.dlut.edu.cn">mingyang@mail.dlut.edu.cn</a></p>
 
 selected_papers: false
-social: false
+social: true
 
 announcements:
   enabled: false
